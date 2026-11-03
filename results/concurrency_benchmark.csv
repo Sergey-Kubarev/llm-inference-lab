@@ -1,0 +1,5 @@
+concurrency,successful,error_rate,mean_latency,p50_latency,p95_latency,requests_per_second,tokens_per_second
+1,16,0.0,4.137,3.966,4.973,0.242,30.94
+2,16,0.0,7.196,7.281,7.897,0.268,34.28
+4,16,0.0,16.424,17.048,20.81,0.223,28.55
+8,16,0.0,24.651,29.729,34.459,0.247,31.64
